@@ -1,0 +1,17 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment
+1/20,Friday,33.79,Books,Entertainment and Recreation,Credit
+1/20,Friday,1.41,McDonalds,Food,Credit
+1/21,Saturday,12.64,Chipotle ,Food,Credit
+1/22,Sunday,7,Bambu,Food,Credit
+1/23,Monday,23.22,Trader Joes,Food,Debit
+1/24,Tuesday,30.32,Amazon,Housing,Credit
+1/25,Wednesday,9.94,In N Out,Food,Credit
+1/27,Friday,5.6,Boba,Food,Credit
+1/29,Sunday,12.28,Safeway,Food,Debit
+1/29,Sunday,27.41,Bonchon,Food,Credit
+1/30,Monday,7.05,Bahn Mi,Food,Cash
+1/30,Monday,1.25,Parking Meeter,Travel,Cash
+1/30,Monday,110,Eye Doctor,Bills,Credit
+1/31,Tuesday,10.7,Noe Valley Bakery ,Food,Credit
+1/31,Tuesday,12.6,H Mart,Food,Credit
+1/31,Tuesday,20.07,Cheveron,Travel,Credit
